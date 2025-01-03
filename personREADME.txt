@@ -1,0 +1,1 @@
+Use dev.off() to cancel out when issues happens 
